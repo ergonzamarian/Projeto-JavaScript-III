@@ -1,6 +1,6 @@
 # Projeto-JavaScript-III
 
-> Status do Projeto: Em Desenvolvimento
+> Status do Projeto: Projeto Finalizado
 
 Último projeto da formação JavaScript para front-ent
 
